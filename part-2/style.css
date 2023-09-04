@@ -1,0 +1,12 @@
+.tweet {
+    border: 2px solid black;
+    padding-left: 6px;
+    padding-top: 3px;
+}
+
+.username {
+    color: gray;
+    font-size: smaller;
+    margin: 0 4px;
+    display: inline;
+}
